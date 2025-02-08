@@ -1,0 +1,9 @@
+graph_index/
+
+package-lock.json
+storage/
+__pycache__/
+chroma_data/
+chroma_db/
+doc_12_3_2_2/
+doc_12_3_2_2
